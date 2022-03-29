@@ -1,7 +1,7 @@
 # Spend Analysis: An analysis based on THL procurement data 2020-2021
 
 # Problem & motivation:
-* The objective of the analysis is to conduct a spend analysis on one public organization and to address a following high-level question: How has the COVID-19 pandemic affected the public spending in the Finnish healthcare sector?
+* The objective of the analysis is to conduct a spending analysis on one public organization and to address the following high-level question: How has the COVID-19 pandemic affected the public spending in the Finnish healthcare sector?
 * This project focuses on Finnish Institute for Health and Welfare (in Finnish: Terveyden ja Hyvinvoinnin Laitos,THL), the government’s expert organization on health-related matters, whose purchase invoice (=spend) data to analyze
 
 # Dataset:
